@@ -1,0 +1,365 @@
+;Company;Job;Location;Salary;Salary_2;Sal_avg
+30;S.C. International;Statistical Analyst -- Health-7444 - 7444;Chicago;80000;0;80000
+88;Workbridge Associates;Senior Data Scientist (H20, Python, and R);Chicago;110000;155000;132500
+95;Workbridge Associates;Data Scientist (Healthcare Data);Chicago;110000;0;110000
+103;Jobspring Partners;Quality Engineer (Big Data);Chicago, IL;70000;105000;87500
+114;Analytic Recruiting;Manager / Director of Predictive Modeling;Chicago;100000;130000;115000
+128;Hirewell;Data Scientist -Fitness/Wellness Firm;Chicago;120000;0;120000
+133;Smith Hanley Associates;Statistical Research Scientist;Chicago;75000;90000;82500
+158;Workbridge Associates;Data Scientist;Chicago;125000;0;125000
+163;U.S. Department of Labor;Economist/Statistician (Economics);Chicago;43915;69827;56871
+334;GinasTechJobs.com;Associate Quantitative Research Analyst;Chicago;180000;0;180000
+335;Metropolitan Water Reclamation District of Greater...;Supervising Environmental Soil Scientist;Chicago, IL;104674;151358;128016
+361;Metropolitan Water Reclamation District of Greater...;Senior Environmental Soil Scientist;Chicago, IL;93257;137114;115185
+405;Workbridge Associates;Director of Data Science;Chicago;180000;0;180000
+408;Silva Capital Management;Quantitative Analyst;Chicago;125000;0;125000
+424;Jobspring Partners;Senior Data Scientist;Glenview, IL;80000;120000;100000
+430;InsightsNow Inc.;Research Analyst;Chicago, IL;50000;0;50000
+436;Hirewell;Data Scientist;Chicago, IL;85000;0;85000
+475;Jobspring Partners;Software Scientist;Chicago;75000;95000;85000
+509;Smith Hanley Associates;Statistical Modeler;Chicago;75000;90000;82500
+522;Jobspring Partners;Machine Learning Engineer;Chicago;100000;120000;110000
+531;Selby Jennings;Data Scientist – Big Data/Artificial Intelligence;Chicago;135000;165000;150000
+538;Workbridge Associates;Senior Data Scientist;Des Plaines, IL;130000;180000;155000
+541;Jobspring Partners;Academic Python Developer;Chicago, IL;75000;100000;87500
+544;Jobspring Partners;Python Scientist;Chicago, IL;70000;100000;85000
+556;The LaSalle Network;Research Analyst;Chicago;90000;0;90000
+582;GinasTechJobs.com;Quantitative Research Analyst;Chicago;180000;0;180000
+584;Analytic Recruiting;Lead Data Scientist;Chicago;140000;0;140000
+621;Huxley Banking & Financial Services;Quantitative Risk Analyst;Chicago;110000;0;110000
+762;Smith Hanley Associates;Statistical Analyst;Evanston, IL;60000;75000;67500
+768;Food Management Search;Food Scientist MS or PhD - Meat Products;Chicago;75000;95000;85000
+11;Workbridge Associates;Senior Machine Learning Engineer;New York;110000;170000;140000
+36;Research Foundation of The City University of New...;climate scientist;New York, NY;61000;62000;61500
+40;Driversiti;Full-Stack Dev Data Viz - Pythonic Design;Rochelle Park, NJ;100000;0;100000
+44;Selby Jennings;C++/Python Algo Developer/Data Scientist;New York;120000;150000;135000
+55;New York City Department of Health and Mental Hygi...;Senior Analyst (Biostatistician or Epidemiologist);Long Island City, NY 11101;76340;100322;88331
+66;DEPT OF HEALTH/MENTAL HYGIENE;Senior Environmental Surveillance Analyst, Bureau of Childca...;Manhattan, NY;76340;100322;88331
+69;Selby Jennings;Research Scientist - High Frequency Trading;New York;175000;250000;212500
+86;Averity;Mid-level Data Scientist For Top Travel Company;New York;90000;110000;100000
+106;DEPT OF HEALTH/MENTAL HYGIENE;Recruitment Coordinator, World Trade Center Health Registry;Manhattan, NY;70286;88213;79249
+136;Averity;Senior Data Scientist for Leading Creative Music Company;New York;120000;150000;135000
+138;Harnham;Big Data Engineer;New York;110000;0;110000
+181;Averity;Lead Data Scientist (New Jersey);New York;130000;170000;150000
+183;DEPT OF HEALTH/MENTAL HYGIENE;Child Care Data Analyst, Bureau of Childcare;New York;57969;70142;64055
+185;Selby Jennings;Senior Data Scientist;New York;135000;200000;167500
+188;DEPT OF ENVIRONMENT PROTECTION;Environmental Analyst;New York;59708;72246;65977
+196;New York City Department of Health and Mental Hygi...;Field Researcher;Long Island City, NY 11101;68239;0;68239
+251;Averity;Vice President, Data Scientist - Leading International Advis...;New York;150000;200000;175000
+255;HOUSING PRESERVATION & DVLPMNT;Technical Researcher;New York;70286;0;70286
+257;DEPT OF HEALTH/MENTAL HYGIENE;Data Analyst, Bureau of Mental Health/Research and Evaluatio...;New York, NY;70286;88213;79249
+261;City of New York;City Research Scientist II;New York, NY;70286;85664;77975
+262;Selby Jennings;VP of Data Science & Analytics;New York;150000;200000;175000
+263;DEPT OF ENVIRONMENT PROTECTION;Policy Analyst;New York;59708;72246;65977
+271;Harnham;Data Scientist - Financial Services;New York, NY;150000;0;150000
+291;Wade & Wendy;Wade & Wendy_Data Scientist/Engineer;New York;80000;120000;100000
+293;StreetID;Quantitative Analyst;New York;120000;0;120000
+294;Averity;Lead Data Scientist - Top Data Consultancy;New York;120000;160000;140000
+317;Selby Jennings;Quantitative Analyst - Credit Risk;New York;120000;0;120000
+321;Execu | Search;Machine Learning Researcher;New York, NY;100000;150000;125000
+330;Parker and Lynch;REVENUE ANALYST (STATISTICAL/ ECONOMETRICS MODELING REQUIRED...;New York;75000;100000;87500
+333;Averity;Tableau Developer;New York, NY;70000;90000;80000
+340;Princeton Consulting;Data Scientist;New York, NY 10018 (Clinton area);110000;275000;192500
+341;Beeswax;Senior / Director Data Science;New York;130000;165000;147500
+346;POLICE DEPARTMENT;CITY RESEARCH SCIENTIST, LEVEL II;New York;68239;85644;76941
+352;Geode Executive Search;Data Scientist - Text Analytics - SQL, R, SAS;New York;200000;0;200000
+356;Selby Jennings;Quantitative Research – Machine Learning;New York;150000;250000;200000
+378;Driversiti;Full-Stack Developer - Sophisticated Analytics, Pythonic des...;Hoboken, NJ;100000;0;100000
+382;Averity;Lead Data Scientist for Top Travel Global Company;New York;120000;150000;135000
+422;Selby Jennings;Quantitative Analyst - Multiple Vacancies;New York;120000;0;120000
+429;Animalz;Research Analyst;New York;40000;0;40000
+436;Intelletec LLC;Principal Data Scientist (Cyber Security);New York, NY 10001 (Chelsea area);140000;180000;160000
+463;DEPT OF INFO TECH & TELECOMM;Manager of Statistical Data;Manhattan, NY;53051;105000;79025
+466;Talon;Data Scientist;New York;110000;130000;120000
+468;Laguna Source;Sr Process Scientist, Downstream Purification MSAT;New York;113000;136000;124500
+472;Takasago International Corp (USA);Market Research Analyst/CIMR;Rockleigh, NJ;50000;0;50000
+495;NewAgeSys,Inc;Scientist I;Rahway, NJ;40000;0;40000
+499;Harnham;Chief Data Scientist - Consulting;New York;220000;0;220000
+500;Green Key Resources;Quantitative Analyst;New York;175000;215000;195000
+507;DEPT OF YOUTH & COMM DEV SRVS;Capacity Building Analyst;Manhattan, NY;68239;85644;76941
+511;Harnham;Director, Data Scientist Modeler;New York, NY;180000;0;180000
+527;Execu | Search;Quantitative Analyst - Portfolio Research;New York;100000;250000;175000
+541;Big Cloud;Data Scientist;New York, NY;150000;0;150000
+546;Averity;Data Scientist, Quant Developer for $10B Asset Manager;New York;120000;150000;135000
+588;Averity;Senior Data Scientist;New York;125000;175000;150000
+593;DEPARTMENT OF TRANSPORTATION;Bike Share Data Scientist;Manhattan, NY;60189;83440;71814
+601;CONSUMER AFFAIRS;Modeler/Data Scientist, Policy and Strategy;Manhattan, NY;59708;72246;65977
+608;Selby Jennings;Catastrophe Risk Analyst - Quantitative;New York;120000;180000;150000
+627;Datacom Technology Group;Quantitative Analyst (Fundamental Quant Equities) - Hedge Fu...;New York;200000;0;200000
+628;Averity;Executive Director of Data Engineering (Media);New York, NY;200000;230000;215000
+629;POLICE DEPARTMENT;Coordinator / Lead Scientist, Municipal Storm Sewer Systems;New York;78630;103332;90981
+642;Averity;Big Data Analytics Engineer at Global Company;New York;95000;105000;100000
+643;Averity;Senior Data Scientist (Media);New York;125000;150000;137500
+644;Averity;Senior Systematic Quantitative Analyst - Multi-billion Dolla...;New York;180000;220000;200000
+647;Smith Hanley Associates;Data Scientist;New York, NY;75000;90000;82500
+682;The Hagan-Ricci Group, Inc.;Data Scientist / Python Developer;New York;200000;300000;250000
+683;Laguna Source;Senior Scientist, Upstream Mammalian Cell Culture Developmen...;New York, NY 10001 (Chelsea area);100000;0;100000
+693;ADMIN FOR CHILDREN'S SVCS;Clinical Program Officer;New York;68239;85644;76941
+706;DEPT OF HEALTH/MENTAL HYGIENE;Special Assistant, Bureau of Vital Statistics;Manhattan, NY;59708;72246;65977
+721;DBFS Ltd;Quantitative Research Analyst;New York;60000;120000;90000
+727;HRA/DEPT OF SOCIAL SERVICES;SENIOR RESEARCH ASSOCIATE;Manhattan, NY;78630;90000;84315
+732;AiCure;Manager, Business Development Operations;New York;80000;0;80000
+733;Averity;Senior Data Scientist for Fortune 500 Company;New York, NY 10016 (Gramercy area);95000;120000;107500
+734;Averity;Big Data Analytics Engineer/ ETL Developer;New York;95000;115000;105000
+737;JEG Search;Quantitative Business Analyst;New York, NY;55000;65000;60000
+746;Workbridge Associates;Lead Data Scientist;New York;130000;150000;140000
+748;Selby Jennings;Quantitative Business Analyst - Investment Bank;New York, NY 10167 (Midtown area);80000;110000;95000
+770;Scienaptic Systems Inc;Data Scientist;New York, NY;100000;0;100000
+775;Centers for Disease Control and Prevention;Health Scientist;New York;88305;146570;117437
+788;Averity;Data Scientist (AdTech);New York;80000;90000;85000
+790;DEPT. OF HOMELESS SERVICES;Compliance Team Leader;Manhattan, NY;78630;103332;90981
+798;Selby Jennings;Equity Research Analyst – Healthcare;New York;150000;200000;175000
+818;Green Key Resources;Data Analysis Specialist;New York;175000;215000;195000
+866;ADMIN FOR CHILDREN'S SVCS;Juvenile Justice Senior Analyst;New York;70286;88213;79249
+875;DEPT OF ENVIRONMENT PROTECTION;Forestry Program Manager;New York;83887;113725;98806
+882;Workbridge Associates;Chief Data Scientist;New York;110000;140000;125000
+892;DEPARTMENT OF FINANCE;Policy Data Analyst;Manhattan, NY;68239;80000;74119
+898;Workbridge Associates;Data Scientist for a growing cyber security company located...;New York;110000;140000;125000
+903;Smith Arnold Partners;Research Analyst;New York, NY;50000;65000;57500
+904;POLICE DEPARTMENT;STATISTICIAN, LEVEL I;New York;41057;61669;51363
+905;Averity;Executive Director of Data Engineering;New York;200000;230000;215000
+907;Averity;Sr. Data Scientist for Top Travel Company;New York;100000;120000;110000
+908;Spencer Ogden;Equity Research Analyst - Power & Utilities;New York;110000;120000;115000
+921;Green Key Resources;Research Analyst;New York;70000;90000;80000
+929;TW Staffing Solutions;Data Scientist;New York;199000;0;199000
+962;DEPT OF ENVIRONMENT PROTECTION;City Research Scientist;New York;70286;88213;79249
+979;Selby Jennings;FTR Quantitative Risk Analyst;New York;90000;180000;135000
+983;POLICE DEPARTMENT;Data Analytics Research Scientist;New York;70286;88213;79249
+14;Workbridge Associates;Principal Data Scientist (Recommendation);San Francisco, CA;120000;160000;140000
+29;Workbridge Associates;Infrastructure Engineer for Successful Machine Learning Star...;San Francisco, CA;120000;160000;140000
+63;Even;Full-stack designer;Oakland, CA;34142;0;34142
+186;Lyra Health;Clinical Social Worker / Client Care Navigation;Burlingame, CA 94010;90000;0;90000
+218;Even;Data scientist;Oakland, CA;34142;0;34142
+258;City & County of San Francisco;Manager I - Chief Microbiologist (Chief Microbiologist);San Francisco, CA 94124 (Bayview area);98202;125346;111774
+297;Workbridge Associates;Principal Data Scientist;San Francisco, CA;170000;190000;180000
+345;Corporate Labs Technology;Data Scientist (Machine Learning);Brisbane, CA;110000;180000;145000
+362;Workbridge Associates;Senior Data Scientist (NLP);San Francisco, CA;140000;180000;160000
+396;HERO.jobs;Senior Software Engineer - Python - Machine Learning;San Francisco, CA;200000;0;200000
+404;Jobspring Partners;FrontEnd Developer;San Francisco, CA;130000;160000;145000
+430;Workbridge Associates;Data Science (Human Computation);San Francisco, CA;140000;180000;160000
+459;Workbridge Associates;Lead Data Scientist;San Francisco, CA;150000;190000;170000
+493;NelsonJobs;Business Analyst / Junior Data Scientist;Walnut Creek, CA;100000;0;100000
+532;Bayone Solutions Inc.;Data Scientist - Recommendation Engine;San Francisco, CA;160000;0;160000
+543;Corporate Labs Technology;Data Scientist (Natural Language Processing);Brisbane, CA;110000;180000;145000
+552;University of California Berkeley;Assistant/Associate Project Scientist - Berkeley Seismologic...;Berkeley, CA;54800;70900;62850
+565;Jobspring Partners;Senior Build & Release Engineer (Machine Learning);San Francisco, CA;140000;160000;150000
+574;Workbridge Associates;Senior Data Engineer- Algorithms Platform;San Francisco, CA;150000;200000;175000
+603;San Francisco Department of Public Health;Manager I - Chief Microbiologist ;San Francisco, CA;98202;125346;111774
+609;Jobspring Partners;Data Scientist;Redwood City, CA;150000;170000;160000
+655;Workbridge Associates;Senior Data Scientist;San Francisco, CA;140000;180000;160000
+663;University of California Berkeley;Research Analyst 5;Berkeley, CA;93000;97000;95000
+672;Jobspring Partners;Automation Engineering Manager (Mechanical/Hardware - Medica...;Redwood City, CA;140000;165000;152500
+733;Workbridge Associates;Staff Engineer, Machine Learning;San Francisco, CA;165000;195000;180000
+748;Averity;Executive Director of Data Engineering;San Francisco, CA;180000;230000;205000
+870;Workbridge Associates;Lead Data Analyst (Machine Learning Operations) - Autonomous...;Berkeley, CA;140000;170000;155000
+885;All-In Analytics;Sr. Machine Learning Data Scientist;San Francisco, CA;120000;150000;135000
+896;Workbridge Associates;Lead Data Scientist (Life Sciences);San Francisco, CA;150000;180000;165000
+903;University of California Berkeley;Office Manager, Energy Institute at Haas ,;Berkeley, CA;65000;75000;70000
+954;Workbridge Associates;Data Scientist;San Francisco, CA;135000;180000;157500
+985;Workbridge Associates;Data Engineer (Python);San Francisco, CA;140000;160000;150000
+4;JE Compliance;JIRA Business System Analyst;Austin, TX 78701 (Downtown area);45000;55000;50000
+36;Lighthouse Recruiting;LCMS Certifying Scientist;Austin, TX;60000;80000;70000
+76;3coast;Data Scientist;Austin, TX;140000;160000;150000
+131;Volt Workforce Solutions;Machine Learning Engineer;Austin, TX;120000;150000;135000
+132;XOR Data Exchange;Senior Software Engineer/Team Lead;Austin, TX;90000;0;90000
+196;Lighthouse Recruiting;Healthcare Billing / RCM Supervisor;Austin, TX;55000;70000;62500
+204;Smith Arnold Partners;Research Analyst;Austin, TX;50000;65000;57500
+210;a-tune software Inc.;Project Manager;Leander, TX 78645;85000;0;85000
+238;All-In Analytics;Senior Machine Learning Data Scientist;Austin, TX;140000;160000;150000
+5;Prime 8 Consulting;Software Development Engineer, Machine Learning;Bellevue, WA 98004 (Downtown area);160000;0;160000
+47;Smith Arnold Partners;Research Analyst;Seattle, WA;50000;65000;57500
+55;HERO.Jobs;Machine Learning Engineer - Big Data, Python, R;Seattle, WA;160000;0;160000
+92;NextGen Global Resources LLC;Machine Learning (SDE);Bellevue, WA;170000;0;170000
+182;Cutting Edge Medical Diagnostics;Sr. Data Scientist / Machine Learning (In-vitro dx, Imaging);Seattle, WA;140000;0;140000
+238;All-In Analytics;Business Intelligence Scientist;Seattle, WA;100000;150000;125000
+261;State of Washington;Extractions Technician (Laboratory Technician 2);Port Orchard, WA;37680;49308;43494
+452;Dynamic Staffing Inc.;Data Scientist-Software Engineer;Seattle, WA;125000;0;125000
+650;Harvey Nash USA;Data Scientist - Engineering;Seattle, WA;120000;130000;125000
+716;G2 Web Services, LLC;Research and Investigation Analyst;Bellevue, WA 98004 (Downtown area);35000;0;35000
+816;Liberty Mutual Insurance;Assistant Director¸ Data Science;Seattle, WA;109900;126100;118000
+913;State of Washington;TMDL Lead (Environmental Specialist 4);Bellevue, WA;48060;63036;55548
+122;Los Angeles County Department of Human Resources;RESEARCH ANALYST I, BEHAVIORAL SCIENCES/SPANISH;Los Angeles, CA;50010;62134;56072
+156;Creative Circle;Analyst/Data Scientist (Offline Media) - Full-time;Los Angeles, CA;100000;0;100000
+176;Workbridge Associates;Software Engineer (Machine Learning/Algorithm Development;Burbank, CA;80000;130000;105000
+196;QYResearch;Automotive industry market research analyst;Rowland Heights, CA 91748;50000;0;50000
+201;Traffk;Lead C# developer for cloud healthcare platform;Los Angeles, CA 90021;130000;0;130000
+207;Los Angeles County Human Resources;CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES;Los Angeles, CA;73107;95884;84495
+268;Los Angeles County Human Resources;RESEARCH ANALYST I, BEHAVIORAL SCIENCES/SPANISH;Los Angeles, CA;50010;62134;56072
+271;Phillips Graduate University;Research Analyst;Chatsworth, CA 91311;50000;60000;55000
+272;Los Angeles County Department of Human Resources;MEDICAL TECHNOLOGIST, DATA SYSTEMS;Los Angeles, CA;76804;100726;88765
+378;HIRECLOUT;Data Engineer;Culver City, CA 90230;100000;160000;130000
+393;Selby Jennings;Quantitative Analyst - Credit Risk;Los Angeles, CA;120000;0;120000
+400;Los Angeles County Human Resources;SENIOR STATISTICAL CLERK;Los Angeles, CA;36339;48794;42566
+403;Los Angeles County Department of Human Resources;SENIOR STATISTICAL CLERK;Los Angeles, CA;36339;48794;42566
+415;Altair Engineering;Aerospace Program Manager;Cypress, CA;88000;0;88000
+433;Los Angeles Unified School District;Director of Research and Data Analysis for the Board of Educ...;Los Angeles, CA;94900;0;94900
+455;QYResearch;Market Research Analyst;Rowland Heights, CA 91748;50000;0;50000
+520;Los Angeles County Department of Human Resources;CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES;Los Angeles, CA;73107;95884;84495
+558;Los Angeles County Department of Human Resources;SUPERVISING CLINICAL LABORATORY SCIENTIST III;Los Angeles, CA;84336;110616;97476
+568;QYResearch;Chemical Industry Market Research Analyst;Rowland Heights, CA 91748;60000;0;60000
+622;Selby Jennings;Quantitative Analyst - Multiple Vacancies;Los Angeles, CA;120000;0;120000
+628;Los Angeles County Human Resources;SUPERVISING CLINICAL LABORATORY SCIENTIST III;Los Angeles, CA;84336;110616;97476
+683;LT;Senior Data Scientist;Los Angeles, CA;180000;0;180000
+737;Los Angeles County Department of Human Resources;HUMAN RESOURCES ANALYST IV - Test Research;Los Angeles, CA;90598;118819;104708
+778;Lighthouse Recruiting;LC/MS Clinical Laboratory Scientist;Pasadena, CA;80000;110000;95000
+883;Tessie Cleveland Community Service Corporation;Senior Research Analyst;Los Angeles, CA;56000;0;56000
+941;Los Angeles County Department of Human Resources;RESEARCH ANALYST II, BEHAVIORAL SCIENCES;Los Angeles, CA;57274;71152;64213
+15;Public Health Management Corporation;Research Scientist - Research & Evaluation Group;Philadelphia, PA;70000;0;70000
+19;All-In Analytics;Auto Risk Data Scientist;Philadelphia, PA;100000;125000;112500
+40;Averity;Quantitative Analyst (Big Data Focus) at $10+ Billion Hedge...;Philadelphia, PA;200000;300000;250000
+78;Audigent;Senior Full-Stack Engineer;Philadelphia, PA;90000;120000;105000
+143;JUNO Search Partners;Full Stack Software Engineer;Philadelphia, PA 19107 (City Center East area);100000;0;100000
+164;Liberty Personnel Services;Quantitative Research Analyst;Philadelphia, PA;140000;0;140000
+167;FIS Global;RISC Business Analyst II - data analysis;Voorhees, NJ;55000;0;55000
+189;Workbridge Associates;Algorithm and Optimization Developer;Radnor, PA;100000;120000;110000
+205;3coast;Quant Research Analyst;Philadelphia, PA;90000;150000;120000
+297;Penfield Search Partners;Sr. Director, Statistical Innovation;Philadelphia, PA;220000;0;220000
+345;The Big Game Hunter;Quantitative Research Analyst Bala Cynwyd PA;Bala-Cynwyd, PA;100000;150000;125000
+348;Smith Hanley Associates;Sr. Mgr./Mgr., Statistician-SFE --PHARMA;King of Prussia, PA;100000;120000;110000
+399;S & S Professional Services;Certifying Scientist;Mount Laurel, NJ;65000;80000;72500
+406;Liberty Personnel Services;Data Scientist - SQL SAS Xeno R;Wilmington, DE;130000;0;130000
+426;JUNO Search Partners;UI/UX Engineer (D3.js);Philadelphia, PA 19107 (City Center East area);100000;0;100000
+436;Workbridge Associates;Python Developer-Machine Learning;Philadelphia, PA;60000;90000;75000
+508;Wolfe & Huntsman LLC;Senior Business Systems Architect (Hadoop Developer);Philadelphia, PA;155000;0;155000
+512;NewAgeSys,Inc;Scientist II;Spring House, PA;60000;0;60000
+537;Real Staffing;Lead Statistical Programmer;Fort Washington, PA;100000;120000;110000
+0;Emory University;Scientist, Med Imag Analysis;Atlanta, GA;69900;0;69900
+52;Analytic Recruiting;Data Scientist - Supply Chain;Atlanta, GA;70000;145000;107500
+187;Lighthouse Recruiting;Certifying Scientist;Smyrna, GA 30082;55000;70000;62500
+215;Centers for Disease Control and Prevention;Epidemiologist;Atlanta, GA;74260;96538;85399
+219;Analytic Recruiting;Senior Data Scientist;Atlanta, GA;100000;125000;112500
+257;Synergy Search Group;Audit Snr (Banking) - Data Analysis 60K-80K;Atlanta, GA;80000;0;80000
+272;Ga. Dept. of Admin. Services;Statistical Data Analyst;Atlanta, GA;36000;46000;41000
+274;Centers for Disease Control and Prevention;Mathematical Statistician;Atlanta, GA;74260;114802;94531
+277;Stackfolio;Lead Data Scientist;Atlanta, GA 30308 (Old Fourth Ward area);80000;0;80000
+327;Interesse International Inc;Market Research & Sales Analyst;Atlanta, GA;60000;70000;65000
+331;Emory University;Sponsored Research Financial Analyst;Atlanta, GA;66700;0;66700
+363;Centers for Disease Control and Prevention;Health Scientist;Atlanta, GA;74260;96538;85399
+364;Centers for Disease Control and Prevention;Health Scientist (Informatics);Atlanta, GA;74260;114802;94531
+365;Emory University;Staff Scientist (Goldsmith Lab);Atlanta, GA;85500;0;85500
+367;U.S. Department of Labor;Economist/Statistician;Atlanta, GA;61956;96538;79247
+372;Centers for Disease Control and Prevention;Lead Statistician (Health);Atlanta, GA;104349;135656;120002
+425;Analytic Recruiting;Junior Data Scientist;Alpharetta, GA;75000;90000;82500
+511;Ga. Dept. of Transportation;Statistical Analyst 1 (PG-H) - Office TransData -One GA Cent...;Atlanta, GA;36000;0;36000
+626;CSTE;Associate Research Analyst;Atlanta, GA 30341;51706;0;51706
+630;SearchAccountingJobs;Lead Quantitative Analyst;Atlanta, GA;150000;205000;177500
+740;Georgia Department of Public Health;Laboratory Aide 3;Atlanta, GA;24000;0;24000
+859;eHire;Sr Data Scientist (AWS);Atlanta, GA 30309 (Midtown area);150000;0;150000
+40;University of Texas at Dallas;Research Scientist;Richardson, TX;46000;50000;48000
+62;Oscar Technology;Data Science Director;Dallas-Fort Worth, TX;180000;0;180000
+68;TEKSystems;Data Scientist;Dallas, TX;100000;105000;102500
+77;Selby Jennings;Catastrophe Risk Analyst - Quantitative;Dallas, TX;75000;120000;97500
+100;BAIR;Emissions Analyst/Stack Tester-Environmental/Regulatory Comp...;Dallas-Fort Worth, TX;65000;0;65000
+120;NextStep Recruiting;Pricing and Quantitative Analyst;Irving, TX 75063;85000;0;85000
+152;All-In Analytics;Senior Marketing Data Scientist;Dallas, TX;80000;100000;90000
+243;Lighthouse Recruiting;Genetic Counselor, Clinical Genomics;Plano, TX;80000;110000;95000
+266;Boy Scouts of America;Senior Statistical Data Coordinator;Irving, TX 75038;45000;55000;50000
+362;TEKSystems;Data Engineer;Irving, TX;80000;100000;90000
+216;The University of Pittsburgh;Clinical Research Program Coordinator;Pittsburgh, PA;40092;65676;52884
+419;The University of Pittsburgh;Program Statistician;Pittsburgh, PA;30732;49296;40014
+461;The University of Pittsburgh;Research Technician;Pittsburgh, PA;30732;49296;40014
+462;The University of Pittsburgh;Laboratory Technician;Pittsburgh, PA;23868;37752;30810
+870;All-In Analytics;Senior Statistician;Pittsburgh, PA;53000;98000;75500
+81;Columbia River Inter-Tribal Fish Commission (CRITF...;Fishery Biologist;Portland, OR;49751;53067;51409
+331;Acumen Executive Search;Corporate Account Manager;Beaverton, OR 97006 (Triple Creek area);100000;0;100000
+340;Portland State University;Research Data Analyst;Portland, OR;58000;62000;60000
+348;Cascade Insights;Prospector;Portland, OR 97213 (Roseway area);45000;0;45000
+39;State of Arizona;COMPLIANCE OFFICER;Phoenix, AZ 85012 (Alhambra area);40000;50000;45000
+161;State of Arizona;WILDLIFE SPECIALIST 3 - CORNVILLE, AZ BASED;Phoenix, AZ 85012 (Alhambra area);39983;58000;48991
+168;Arizona Health Care Cost Containment System;RESEARCH AND STATISTICAL ANALYST;Phoenix, AZ;39983;55500;47741
+169;Arizona State University;ASSISTANT RESEARCH SCIENTIST;Tempe, AZ;50000;60000;55000
+210;Maricopa County Community College District;Institutional Research Analyst (Specially Funded/Open Until...;Phoenix, AZ;50958;60512;55735
+211;Maricopa County, AZ;Research Analyst;Phoenix, AZ 85003 (Central City area);44616;82618;63617
+216;Arizona State University;Management Research Analyst;Tempe, AZ;47476;50000;48738
+238;Career Evolutions;Data Services Engineer;Phoenix, AZ;150000;0;150000
+241;Career Evolutions;Data Architect;Phoenix, AZ;150000;0;150000
+243;Arizona Health Care Cost Containment System;DATA ANALYSIS AND RESEARCH MANAGER;Phoenix, AZ;65000;72000;68500
+266;Arizona Supreme Court;Data Statistical Specialist (Job 2105);Phoenix, AZ;56677;0;56677
+267;SearchBankingJobs;Quantitative Analyst Manager;Phoenix, AZ;150000;205000;177500
+275;SiteLock;Web Security Research Analyst;Scottsdale, AZ;50000;55000;52500
+342;State of Arizona;Senior Epidemiologist;Phoenix, AZ 85012 (Alhambra area);60000;0;60000
+345;State of Arizona;Epidemiology Program Manager;Phoenix, AZ 85012 (Alhambra area);65000;0;65000
+347;Arizona State University;Program Manager, CAP LTER;Tempe, AZ;47476;52000;49738
+40;City of Englewood, CO;Environmental Services Manager;Englewood, CO;84900;127300;106100
+135;National Geospatial-Intelligence Agency;R & D Scientist;Buckley AFB, CO;63691;118018;90854
+269;Denver Health;RN-Statistical Research Specilist Nursing;Denver, CO 80204 (Central West Denver area);66654;0;66654
+333;10Roof Technology;Big Data Developer (Spark, Hadoop, Hive);Denver, CO;105000;0;105000
+336;Denver Public Schools;RESEARCH ANALYST;Denver, CO;57580;69098;63339
+359;Denver Health;Business Manager - RADARS;Denver, CO 80204 (Central West Denver area);88091;0;88091
+361;University of Colorado;Managing Director for STROBE;Boulder, CO;100000;115000;107500
+470;Denver Public Schools;SENIOR RESEARCH ANALYST, TEACHING AND LEARNING;Denver, CO;63339;76007;69673
+471;Community College of Aurora;Research Analyst;Aurora, CO;40000;0;40000
+481;University of Colorado;Health & Human Sciences Librarian;Boulder, CO;50500;0;50500
+511;MycoTechnology;Food / Flavor Application Scientist;Aurora, CO 80011 (Norfolk Glen area);50000;0;50000
+516;University of Colorado;Senior Informatics Analyst;Aurora, CO;68000;0;68000
+544;University of Colorado;Bioinformationist;Aurora, CO;50000;63000;56500
+623;xentity corporation;Government Enterprise Architect;Denver, CO;95000;127000;111000
+654;Lauren Enterprises;Food Scientist: Chemistry & Formulations;Denver, CO 80226;35000;0;35000
+685;Potatoes USA;Global Marketing Manager - Food Manufacturing;Denver, CO;85000;0;85000
+65;Baylor College of Medicine;Sr. Bioinformatics Programmer;Houston, TX;70000;91000;80500
+171;Baylor College of Medicine;Research Financial Analyst II;Houston, TX;65000;0;65000
+214;Selby Jennings;Senior Predictive Modeling Actuary;Houston, TX;70000;130000;100000
+361;Selby Jennings;Catastrophe Risk Analyst - Quantitative;Houston, TX;75000;120000;97500
+770;Rekruiters;C++ Software Engineer;Houston, TX 77006 (Montrose area);250000;0;250000
+888;Baylor College of Medicine;Senior Research Policy Analyst;Houston, TX;72000;0;72000
+897;SearchBankingJobs;Quantitative Risk Analyst;Houston, TX;150000;205000;177500
+900;Baylor College of Medicine;Lead Bioinformatics Programmer;Houston, TX;83000;102000;92500
+3;Staffing Resource Group;QC Chemist;Miami, FL;50000;0;50000
+17;University of Miami;Sr. Research Analyst / Pre-award Grants;Coral Gables, FL;40000;72000;56000
+101;University of Miami;Assistant Scientist;Coral Gables, FL;53900;96900;75400
+103;University of Miami;Scientist;Coral Gables, FL;77600;139600;108600
+107;University of Miami;(Temporary) Research Analyst;Coral Gables, FL;38750;62000;50375
+195;University of Miami;Lead Research Analyst (Biostatistics);Coral Gables, FL;77600;108600;93100
+196;University of Miami;Senior Research Analyst;Coral Gables, FL;40000;56000;48000
+321;Smith Hanley Associates;Statistical Operations Research Analyst;Miami, FL;75000;95000;85000
+322;University of Miami;Statistical Programmer;Coral Gables, FL;32900;0;32900
+325;University of Miami;Research Analyst;Coral Gables, FL;32900;59100;46000
+329;University of Miami;Financial Analyst (Clinical Research Revenue);Coral Gables, FL;38750;51000;44875
+459;University of Miami;Assistant Scientist/Postdoctoral Associate;Coral Gables, FL;53900;65000;59450
+695;University of Miami;(Temporary) Research Laboratory Technician;Coral Gables, FL;27400;49400;38400
+817;Morgan Stephens;Librarian Research Analyst;Miami, FL;75000;85000;80000
+15;Engineering Resource Group, Inc.;Lead Machine Learning Data Analyst;Boston, MA 02122 (South Dorchester area);85000;110000;97500
+33;Harnham;DATA SCIENTIST TEAM MANAGER, CUTTING EDGE TECH BUSINESS;Cambridge, MA;180000;0;180000
+48;Neurable;Machine Learning Engineer;Cambridge, MA;90000;120000;105000
+94;Jobspring Partners;Data Scientist;Boston, MA 02116 (South End area);80000;100000;90000
+98;Jobspring Partners;Senior Data Scientist;Boston, MA 02116 (South End area);150000;0;150000
+101;Big Wednesday Digital;Data Engineer (ElasticSearch/Kafka) -global eCommerce - Bang...;Framingham, MA 01701;50000;125000;87500
+148;John Leonard;Competitive Research Analyst #23654;Boston, MA;65000;80000;72500
+169;Rifiniti;Assistant to the President;Boston, MA;55000;0;55000
+227;Commonwealth of Massachusetts;Research Data Analyst;Boston, MA;65232;92625;78928
+292;Harnham;DIRECTOR OF DATA SCIENCE - RETAIL;Boston, MA;200000;0;200000
+316;Liberty Mutual Insurance;Assistant Director¸ Predictive Modeling;Boston, MA;108900;161000;134950
+335;The Bivium Group;Web Developers* (new full stack MEAN.JS core product develop...;Framingham, MA;80000;130000;105000
+367;Fanning Personnel;Senior Research Analyst;Boston, MA 02116 (South End area);95000;0;95000
+369;The Bivium Group;Lead Ruby on Rails Architect - CTOs Right Hand;Boston, MA;130000;150000;140000
+428;US Engineering Technical Services;Data Analyst;Wilmington, MA;110000;0;110000
+450;The Bivium Group;Front-End Developer, new web products and apps, learn mobile;Cambridge, MA;75000;140000;107500
+471;Northeastern University;Research Scientist;Boston, MA 02115 (Fenway-Kenmore area);60000;0;60000
+476;Harnham;DATA SCIENTIST, HEALTHCARE;Boston, MA;130000;0;130000
+485;Liberty Mutual Insurance;Senior Software Developer;Boston, MA;98800;126700;112750
+494;Jobspring Partners;Senior Software Engineer;Boston, MA 02116 (South End area);100000;110000;105000
+498;The Bivium Group;Software Engineers - new consumer mobile app, learn iOS, And...;Cambridge, MA;90000;140000;115000
+504;NewAgeSys,Inc;Biologist / Bench Scientist I;Andover, MA;42000;0;42000
+601;Commonwealth of Massachusetts;Laboratory Technician I;Maynard, MA;36381;48462;42421
+610;Strategic Employment Partners;Lead Data Scientist;Cambridge, MA;150000;0;150000
+625;Selby Jennings;Catastrophe Risk Analyst - Quantitative;Boston, MA;75000;120000;97500
+647;The Bivium Group;Data Engineer - Big Data Services, AWS;Cambridge, MA;110000;140000;125000
+655;BIG 6 Search International;Practice Leader for Management Consulting in Pharma Clinical...;Boston, MA;175000;250000;212500
+681;Workbridge Associates;Senior Machine Learning Engineer;Boston, MA;110000;170000;140000
+703;Jobspring Partners;Senior Java Developer;Boston, MA 02116 (South End area);150000;0;150000
+712;The Bivium Group;Data Scientist - healthcare, hacking coding skills;Cambridge, MA;90000;140000;115000
+713;Strategic Employment Partners;Data Scientist;Cambridge, MA;90000;135000;112500
+786;Bedford Research Foundation;SPAR Program Coordinator;Bedford, MA 01730;35000;50000;42500
+797;Domeyard LP;High Performance Computing Scientist needed for HFT Firm;Boston, MA 02110 (Central area);120000;0;120000
+804;Harnham;SENIOR DATA SCIENTIST, LEADING INSURANCE BUSINESS;Boston, MA;160000;0;160000
+807;Analytic Recruiting;Quantitative Analyst or Manager Decision Sciences;Boston, MA;90000;130000;110000
+811;Commonwealth of Massachusetts;Part-time JDAI Research Analyst;Boston, MA;53415;76469;64942
+836;Commonwealth of Massachusetts;Director of Science, Technology, Engineering and Mathematics...;Malden, MA;44590;119145;81867
+838;Execu | Search;Quantitative Research Analyst;Boston, MA;110000;150000;130000
+843;The Bivium Group;Data Visualization Developer - all new d3 based development;Framingham, MA;80000;130000;105000
+855;Harnham;DATA SCIENTIST, ECOMMERCE ANALYTICS;Boston, MA;160000;0;160000
+881;The Centrics Group;Data Scientist;Cambridge, MA 02141 (East Cambridge area);110000;0;110000
+909;The Bivium Group;Web Engineers, full-stack - total greenfields (python/flask/...;Cambridge, MA;70000;120000;95000
+930;Jobspring Partners;Lead .NET Software Engineer;Cambridge, MA;110000;140000;125000
+943;Commonwealth of Massachusetts;Hematology Supervisor;Boston, MA;54792;77430;66111
+990;Commonwealth of Massachusetts;Research Analyst I;Boston, MA;47860;67712;57786
