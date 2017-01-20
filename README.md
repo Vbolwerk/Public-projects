@@ -1,2 +1,2 @@
 # Public-projects
-Public projects I have worked on as a learning experience
+Public projects I have worked, as part of my learning experience.
