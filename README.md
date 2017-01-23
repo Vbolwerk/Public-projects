@@ -16,6 +16,13 @@ Public projects I have worked on, as part of my learning experience.
 - Extracting data from a SQL database.
 - Visualizations using matplotlib/ seaborn.
 - Dimensionality reduction using principal component analysis.
+- Hierarchical clustering
 - 3D-plot of results.
 
-*
+*Data science salaries from Indeed:*
+- Scraping data science salaries from Indeed.com using BeautifulSoup
+- Cleaning in pandas
+- Extracting text features from position title
+- Logistic regression using statsmodels and scikit-learn
+
+
