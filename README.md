@@ -25,4 +25,8 @@ Public projects I have worked on, as part of my learning experience.
 - Extracting text features from position title
 - Logistic regression using statsmodels and scikit-learn
 
+*Titanic survival rates:*
+- Data cleaning in pandas, visualization in Tableau
+- Using logistic regression and kNN-classifier to predict survival probability
+- Model evaluation with ROC-curves and using different criteria to optimize Gridsearch
 
